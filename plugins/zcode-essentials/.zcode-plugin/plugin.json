@@ -1,0 +1,6 @@
+{
+  "name": "zcode-essentials",
+  "version": "0.2.0",
+  "description": "16 typed subagents from codex-essentials v0.2.0 (roles preserved, model routing removed - single band)",
+  "agents": "./agents/"
+}

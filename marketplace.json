@@ -1,0 +1,12 @@
+{
+  "name": "zcode-essentials-local",
+  "description": "Local marketplace: codex-essentials v0.2.0 port for ZCode (16 typed subagents)",
+  "owner": { "name": "growlee" },
+  "plugins": [
+    {
+      "name": "zcode-essentials",
+      "source": "./plugins/zcode-essentials",
+      "description": "16 typed subagents (analyst, architect, code-reviewer, critic, debugger, dependency-expert, executor, explore, explore-luna, git-master, planner, researcher, test-engineer, verifier, vision, writer). Roles preserved from codex-essentials v0.2.0; model routing removed (single band)."
+    }
+  ]
+}
